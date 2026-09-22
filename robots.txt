@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yangshihong2.cn/sitemap.xml

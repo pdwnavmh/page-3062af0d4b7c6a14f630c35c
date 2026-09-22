@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ab623740e59fa19417bd53e6",
+  "owner": "pdwnavmh",
+  "repo": "page-3062af0d4b7c6a14f630c35c",
+  "title": "TIGER",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3062af0d4b7c6a14f630c35c",
+      "a": "TIGER",
+      "b": "2027官方最新地址导航",
+      "entity": "TIGER",
+      "brand": "TIGER",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0e6bf03cf59488e70c87ae961d8e368bc9c56f88bd3fbac6832801c267c9deeb",
+      "content": {
+        "primary_entity": "TIGER",
+        "keyword1": "TIGER",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，TIGER 提供按月与按年两种付费方式，基础版每月 100GB 流量、支持 3 台设备，旗舰版每月 300GB 流量、支持 5 台设备并带 IPLC 专线游戏加速优化，团队版每月 1000GB 流量、支持 20 台设备。选择时先看设备数量与流量需求，再对比订阅周期，按年付通常更划算。",
+          "AI_HERO_SUBTITLE": "TIGER 加速器套餐与客户端选择",
+          "AI_HERO_INTRO": "TIGER 面向海外访问场景提供套餐化加速服务。基础版适合轻度使用，旗舰版面向多设备流媒体与游戏，团队版覆盖多人共享与高带宽需求。选择套餐时重点看设备数量和月流量，再决定按月或按年付费。",
+          "AI_VISUAL_TITLE": "TIGER 加速让你的网络更顺畅",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "流量与设备数按档位划分",
+          "AI_HIGHLIGHT_3": "支持按年付费节省开支",
+          "AI_FEATURES_TITLE": "套餐选择与设备匹配",
+          "AI_FEATURES_INTRO": "根据设备数量和流量需求挑选合适档位，再结合订阅周期安排预算。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台，旗舰版 5 台，团队版 20 台，按常用设备数量选择。",
+          "AI_FEATURE_TITLE_2": "按流量需求选择",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB 到 1000GB 三档流量，重度使用选更高档位。",
+          "AI_FEATURE_TITLE_3": "订阅周期更灵活",
+          "AI_FEATURE_TEXT_3": "月付适合短期试用，年付折算下来更省，可按使用时长决定。",
+          "AI_CLIENTS_TITLE": "根据设备选择客户端",
+          "AI_CLIENTS_INTRO": "TIGER 订阅可配置到常见客户端，不同系统适配情况不同，请按设备类型选择对应客户端文档操作。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月；按年付分别约 ¥150、¥350、¥850。可按设备数量与流量在档位间对比。",
+          "AI_GUIDE_TITLE": "三步完成订阅配置",
+          "AI_GUIDE_INTRO": "从选择服务到配置订阅，按步骤完成即可开始使用。",
+          "AI_STEP_TITLE_1": "选择服务与套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版、团队版之间选择。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端版本是否满足对应套餐的配置条件。",
+          "AI_STEP_TITLE_3": "依客户端文档配置订阅",
+          "AI_STEP_TEXT_3": "按所选客户端的说明导入订阅信息，完成后即可使用加速服务。",
+          "AI_CLOSING_TITLE": "选对套餐更省心",
+          "AI_CLOSING_TEXT": "对照设备数量与流量需求，选择适合的 TIGER 套餐并完成订阅配置。",
+          "AI_FAQ_INTRO": "套餐选择、设备限制与付费周期。",
+          "AI_FAQ_ANSWER_1": "基础版适合 3 台设备以内、月流量 100GB 的用户。旗舰版支持 5 台设备、月流量 300GB，并含 IPLC 专线游戏优化。团队版支持 20 台设备、月流量 1000GB，适合小型团队。",
+          "AI_FAQ_ANSWER_2": "套餐按自然月计算，流量在每周期内有效，未用完不结转。超出后可升级套餐或等待下一周期重置。",
+          "AI_FAQ_ANSWER_3": "可以选择 Clash、Shadowrocket、v2rayN 等常用客户端，导入订阅后按文档配置。具体版本要求请查看客户端说明。",
+          "AI_FAQ_ANSWER_4": "年付价格为基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相当于月付的约 83 折。需要长期使用的用户可选年付。",
+          "AI_FAQ_ANSWER_5": "同一时间超出设备限制会导致新设备无法连接。可以关闭闲置设备或升级到更高设备数的套餐。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版分别适合哪些人？",
+          "AI_FAQ_QUESTION_2": "套餐流量如何计算和重置？",
+          "AI_FAQ_QUESTION_3": "应该选择哪个客户端来配置订阅？",
+          "AI_FAQ_QUESTION_4": "年付和月付在价格上有什么区别？",
+          "AI_FAQ_QUESTION_5": "设备数量超过套餐限制会怎样？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yangshihong2.cn",
+    "host": "yangshihong2.cn"
+  },
+  "file_hashes": {
+    "index.html": "c88b64ed6e7d73d11797c3d73fc33725765c76815161da9457c63647a4529e1b",
+    "sitemap.xml": "db15db7076690ea30d2542b404ab8c74067d4f97065f972b6ff6f97990431a09",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1b1f9983e02bff36f6c5731f86284dde4ef1707795f491e0dd2f64ce01a3fb2a",
+    "robots.txt": "f8ca9e42751f96fc62cfb08df0a1cde470d7f8ab141f5a7e94f02a3272fff030",
+    "bab94ae0b191548a0cc0b94f6cf563eb.txt": "c365397c03c1df6edd559c70bce9425abe217b0cc21a1481bbf2d28420ff325f"
+  },
+  "revision": "e92c4c24b02229f52a4e4415681257b7ae87671c67dad95fadbf3e1b65df29e9"
+}
